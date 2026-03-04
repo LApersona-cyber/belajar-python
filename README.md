@@ -1,2 +1,2 @@
 # belajar-python
-Project pembelajaran Python dan AI menggunakan Codex
+ai-trading-lab
